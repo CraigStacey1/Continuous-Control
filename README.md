@@ -12,6 +12,12 @@ The reacher environment for the continuous control task can be setup by followin
 
 https://github.com/udacity/deep-reinforcement-learning/tree/master/p2_continuous-control
 
+# Running The Agent
+In order t orun the agent jupyter notebooks is needed the best way to set up teh environment is to insall anaconda: 
+https://www.anaconda.com/distribution/
+
+After creating the environment and downloading the Unity environment open the ContinuoutControl.ipynb file in anaconda and run all cells of the notebook.
+
 # Learning Agent
 The learning agent used for this project is a Deep Deterministic Policy Gradient agent. This agent uses 2 neural networks known as the Actor network and the critic network. The actoor network performs actions based off the current policy, producing the actions directly instead of producing probabilities. The Critic network provides feedback on the performance of the actor network in orrder to improve the Actors policy.
 
