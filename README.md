@@ -1,6 +1,6 @@
 # Consinuous Control Project
 
-![](results/Unity Environment 01_07_2019 13_37_58.gif)
+![](results/results.gif)
 
 ## This repository outlines the steps taken to resolve the Condinuous Control Reacher environments using Unity ML-Agents and Pytorch.
 
